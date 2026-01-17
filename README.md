@@ -5,10 +5,10 @@
 ---
 
 ## 📫 Contact Me
-- Phone: +8801920284077
-- Email: [tamjidahmed050@gmail.com](mailto:tamjidahmed050@gmail.com)
-- Location: Dhaka, Bangladesh
-- Portfolio / GitHub: [github.com/tamjid](https://github.com/tamjid)
+- 📞 +8801920284077
+- 📧 [tamjidahmed050@gmail.com](mailto:tamjidahmed050@gmail.com)
+- 🌍 Dhaka, Bangladesh
+
 
 ---
 
@@ -58,7 +58,7 @@
 ## 🚀 Projects
 
 ### **Chatzaar AI Agent** (AI Conversational Web App)  
-[Live Link](#) | [Front-end Video](#)  
+[Live Link](https://chatzaar-chi.vercel.app) | [Video Demo](https://drive.google.com/file/d/16PJuaRH3WDKaEq7DWvXDlzuS4LecwOhl/view)  
 
 - AI-powered chatbot with real-time conversations.  
 - OAuth authentication & MongoDB for conversation history.  
@@ -68,7 +68,7 @@
 - Tech: Next.js, Tailwind CSS, React Redux Toolkit, Express, MongoDB, OAuth, JWT
 
 ### **AI Copywriting Landing Page** (Product Marketing Website)  
-[Live Link](#) | [Front-end Demo](#)  
+[Live Link](https://launch-hub-drab.vercel.app)  
 
 - AI content writing platform landing page.  
 - Structured sections, clear CTAs, modern & responsive design.  
@@ -76,10 +76,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streak
 
-![Tamjid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamjid&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamjid&layout=compact&theme=radical)
-
----
+![Tamjid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamjidahmed0&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamjidahmed0&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamjidahmed0&theme=tokyonight)
 
