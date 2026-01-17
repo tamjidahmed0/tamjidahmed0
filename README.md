@@ -76,9 +76,4 @@
 
 ---
 
-## 📊 GitHub Stats & Streak
-
-![Tamjid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamjidahmed0&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamjidahmed0&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamjidahmed0&theme=tokyonight)
 
